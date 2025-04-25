@@ -41,3 +41,13 @@ Puedes instalar las dependencias fácilmente con:
 
 ```bash
 pip install numpy scipy plotly
+
+▶️ Ejecución
+
+Simplemente corre el archivo principal
+watertruckdelivery.py
+
+Este proyecto está disponible bajo la licencia MIT.
+📬 Contacto
+
+Desarrollado por Adrián Guel. Si quieres proponer mejoras o contribuir al proyecto, ¡los PRs son bienvenidos!
