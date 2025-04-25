@@ -1,4 +1,5 @@
-# Optimización del Reparto de Agua en Pipas con Restricciones Temporales, de Almacenamiento y Equidad
+![image](https://github.com/user-attachments/assets/b87d2a6f-8f5b-4a86-9c29-3f1ada29ff69)
+
 
 Este repositorio contiene un modelo de programación lineal en Python que resuelve un problema de distribución de agua mediante camiones cisterna (pipas) en contextos urbanos con escasez hídrica. La motivación del proyecto surge de la necesidad urgente de hacer más eficiente y equitativo el reparto de agua en ciudades mexicanas donde este servicio es esencial, pero muchas veces gestionado de forma informal o subóptima.
 
